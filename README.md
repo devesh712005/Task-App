@@ -101,6 +101,3 @@ docker-compose up --build
 
 **Devesh Singh Chauhan**
 
----
-
-🔥 *This project is ideal for backend, DevOps, and system design learning.*
